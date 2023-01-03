@@ -1,6 +1,5 @@
-import React from 'react';
-import MapView from '../components/MapView'
 import React, {Component} from 'react';
+import MapView from '../components/MapView'
 import Square from "./components/square";
 
 import {COL_SIZE, ROW_SIZE, emptyBoard} from './components/shape';
